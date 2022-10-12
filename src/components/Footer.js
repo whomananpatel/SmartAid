@@ -6,7 +6,7 @@ const Footer = () => (
       <div className="row">
         <div className="col-md-6 mt-md-0 mt-3">
           <h5 className="text-uppercase">Smart Aid</h5>
-          <p>
+          <p> 
             Access video consultation with top doctors on the Smart Aid. Connect
             with doctors online, available 24/7, from the comfort of your home.
           </p>
