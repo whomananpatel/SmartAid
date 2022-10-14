@@ -11,8 +11,7 @@ import AdminLogin from "./components/Admin/AdminLogin";
 const App = () => {
   return (
     <div className="App">
-      <AdminLogin/>
-
+      <PatientLogin/>
     </div>
   );
 };
